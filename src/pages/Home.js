@@ -43,7 +43,7 @@ export function Home(){
         </Text>
         
         <Text style={styles.greetings}>
-            { greetings }
+            {greetings}
         </Text>
 
 
